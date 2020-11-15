@@ -37,6 +37,6 @@ Read [LICENSE](../master/LICENSE) for more information.
 
 # Images
 
-![Image](https://github.com/Commando950/CopyMyCache/raw/master/images/example.png "The program interface.")
+![Image](https://raw.githubusercontent.com/Commando950/CopyMyCache/master/example.png "The program interface.")
 
 *The image above shows the program and its interface.*
