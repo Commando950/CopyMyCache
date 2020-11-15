@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="CopyMyCache.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="16"/>
+        <UsageCount Value="25"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <FoldState Value=" T8P21G"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\components\lazutils\fileutil.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="602"/>
+        <CursorPos Y="619"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\Users\Commando950\Downloads\Nim-ea1f1ec6d4d6c776eb0f81c2bebdd4cb4c817ebe\Nim-ea1f1ec6d4d6c776eb0f81c2bebdd4cb4c817ebe\nim\main.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <CursorPos X="38" Y="5"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="GhettoFileDetection.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="25"/>
+        <CursorPos X="50" Y="27"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus\components\lazutils\fileutil.pas"/>
+        <UnitName Value="FileUtil"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="23"/>
+        <CursorPos X="65" Y="26"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+    </Units>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="main.pas"/>
+        <Caret Line="9" Column="45"/>
+      </Position1>
+      <Position2>
+        <Filename Value="GhettoFileDetection.pas"/>
+        <Caret Line="218" Column="5" TopLine="187"/>
+      </Position2>
+      <Position3>
+        <Filename Value="GhettoFileDetection.pas"/>
+        <Caret Line="9"/>
+      </Position3>
+      <Position4>
+        <Filename Value="main.pas"/>
+        <Caret Line="141" Column="55" TopLine="115"/>
+      </Position4>
+      <Position5>
+        <Filename Value="GhettoFileDetection.pas"/>
+        <Caret Line="21" TopLine="7"/>
+      </Position5>
+      <Position6>
+        <Filename Value="GhettoFileDetection.pas"/>
+        <Caret Line="9" Column="20"/>
+      </Position6>
+      <Position7>
+        <Filename Value="main.pas"/>
+        <Caret Line="8" Column="27"/>
+      </Position7>
+      <Position8>
+        <Filename Value="GhettoFileDetection.pas"/>
+        <Caret Line="10"/>
+      </Position8>
+      <Position9>
+        <Filename Value="GhettoFileDetection.pas"/>
+        <Caret Line="11" Column="3" TopLine="6"/>
+      </Position9>
+      <Position10>
+        <Filename Value="GhettoFileDetection.pas"/>
+        <Caret Line="22" TopLine="6"/>
+      </Position10>
+      <Position11>
+        <Filename Value="GhettoFileDetection.pas"/>
+        <Caret Line="9" Column="10" TopLine="6"/>
+      </Position11>
+      <Position12>
+        <Filename Value="main.pas"/>
+        <Caret Line="8" Column="27"/>
+      </Position12>
+      <Position13>
+        <Filename Value="GhettoFileDetection.pas"/>
+        <Caret Line="14"/>
+      </Position13>
+      <Position14>
+        <Filename Value="GhettoFileDetection.pas"/>
+        <Caret Line="56" Column="39"/>
+      </Position14>
+      <Position15>
+        <Filename Value="GhettoFileDetection.pas"/>
+        <Caret Line="12"/>
+      </Position15>
+      <Position16>
+        <Filename Value="main.pas"/>
+        <Caret Line="198" Column="5" TopLine="68"/>
+      </Position16>
+      <Position17>
+        <Filename Value="main.pas"/>
+        <Caret Line="201" Column="5" TopLine="171"/>
+      </Position17>
+      <Position18>
+        <Filename Value="main.pas"/>
+        <Caret Line="200" Column="5" TopLine="170"/>
+      </Position18>
+      <Position19>
+        <Filename Value="main.pas"/>
+        <Caret Line="128" Column="49" TopLine="106"/>
+      </Position19>
+      <Position20>
+        <Filename Value="main.pas"/>
+        <Caret Line="132" Column="56"/>
+      </Position20>
+      <Position21>
+        <Filename Value="main.pas"/>
+        <Caret Line="22" Column="35" TopLine="7"/>
+      </Position21>
+      <Position22>
+        <Filename Value="main.pas"/>
+        <Caret Line="78" Column="57" TopLine="59"/>
+      </Position22>
+      <Position23>
+        <Filename Value="main.pas"/>
+        <Caret Line="102" Column="66" TopLine="77"/>
+      </Position23>
+      <Position24>
+        <Filename Value="main.pas"/>
+        <Caret Line="186" Column="106" TopLine="162"/>
+      </Position24>
+      <Position25>
+        <Filename Value="main.pas"/>
+        <Caret Line="195" Column="83" TopLine="180"/>
+      </Position25>
+      <Position26>
+        <Filename Value="main.pas"/>
+        <Caret Line="193" Column="53" TopLine="169"/>
+      </Position26>
+      <Position27>
+        <Filename Value="main.pas"/>
+        <Caret Line="4" Column="33"/>
+      </Position27>
+      <Position28>
+        <Filename Value="main.pas"/>
+        <Caret Line="262" Column="6" TopLine="243"/>
+      </Position28>
+      <Position29>
+        <Filename Value="main.pas"/>
+        <Caret Line="52" Column="25" TopLine="52"/>
+      </Position29>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
