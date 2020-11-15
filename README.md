@@ -1,5 +1,5 @@
 # What Is Copy My Cache?
-CopyMyCache is a Windows program that copys and even identifies most files from your Discord cache folder or if you'd like deletes them as well.
+CopyMyCache is a Windows program that copies and even identifies most files from your Discord cache folder or if you'd like deletes them as well.
 
 It first finds cache files and then identifies their file format. After identifying the file format it will copy the files and rename them with the correct file format.
 
